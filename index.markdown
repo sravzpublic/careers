@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Share Research And ViZualize (Sravz) documentation."
+description: "Share Research And ViZualize (Sravz) careers."
 permalink: /
 comments: true
 ---
@@ -14,17 +14,17 @@ comments: true
 {:toc}
 
 ---
-# Sravz Documentation
-{: .fs-9 }
+# Sravz Careers
 
-Share Research And ViZualize (Sravz) is a tool for Sharing, Researching and Vizualizing various datasets.
-{: .fs-6 .fw-300 }
+## Open positions
 
-[Visit Sravz](https://sravz.com/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/sravzpublic/training){: .btn .fs-5 .mb-4 .mb-md-0 }
+1. [J2EE Developer]({{ site.baseurl }}{% link docs/open/J2EE-Developer.md %})
+2. [Java Developer]({{ site.baseurl }}{% link docs/open/Java-Developer.md %})
+
+## Closed positions
+
+1. [Java Developer Secret]({{ site.baseurl }}{% link docs/closed/Java-Developer-Secret.md %})
+2. [Java Developer Junior]({{ site.baseurl }}{% link docs/closed/Java-Developer–Junior.md %})
 
 ---
-
-### Sravz Node
-
-[Sravz Node]({{ site.baseurl }}{% link docs/sravz-node.md %}#Development Environment) is an ubuntu based development environment which can be used to contribute Analytics algorithms [Analytics Tab](https://sravz.com).
 
