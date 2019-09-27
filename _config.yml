@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sravz Careers 
+title: Sravz Careers
 email: contactus@sravz.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sravz Careers 
+  Sravz Careers
 baseurl: "/careers" # the subpath of your site, e.g. /blog
 url: "https://sravzpublic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: sravzpublic
@@ -41,6 +41,9 @@ aux_links:
 #  shortname: sravz
 
 environment: production
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; Sravz Ltd. <a href = 'mailto: contactus@sravz.com'>Apply</a>"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
