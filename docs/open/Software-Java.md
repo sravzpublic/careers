@@ -17,10 +17,10 @@ Qualifications Required: 
 7. CompTIA Security+ certified.
 
 Qualifications Desired:
-1 MS Windows Server 2012 R2.
-2 Oracle 12c RDBMS.
-3 Apache HTTPD – web server.
-4 Apache Tomcat - web server and servlet container.
-5 Apache Subversion – software CM and version control system.
-6 Functional / Integration testing experience.
-7 Learn methods to check APPS system operation and restart servers or services on servers.
+1. MS Windows Server 2012 R2.
+2. Oracle 12c RDBMS.
+3. Apache HTTPD – web server.
+4. Apache Tomcat - web server and servlet container.
+5. Apache Subversion – software CM and version control system.
+6. Functional / Integration testing experience.
+7. Learn methods to check APPS system operation and restart servers or services on servers.
