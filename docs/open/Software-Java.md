@@ -2,7 +2,7 @@
 layout: default
 title: Software Java
 parent: Open
-nav_order: 1
+nav_order: 3
 ---
 
 IndraSoft, Inc. is seeking a highly qualified Software Engineer to support our Air Force customer at Randolph Air Force base 
