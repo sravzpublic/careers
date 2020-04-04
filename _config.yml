@@ -32,10 +32,12 @@ remote_theme: sravzpublic/just-the-docs
 search_enabled: true
 
 aux_links:
-    "Sravz Github":
-      - "//github.com/sravzpublic/"
     "Sravz Home":
       - "//sravz.com"
+    "Sravz Github":
+      - "//github.com/sravzpublic/"
+    "Sravz Training":
+      - "//docs.sravz.com"
 
 disqus:
   shortname: sravz
