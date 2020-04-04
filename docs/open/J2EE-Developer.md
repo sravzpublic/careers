@@ -2,7 +2,7 @@
 layout: default
 title: J2EE Developer
 parent: Open
-nav_order: 1
+nav_order: 2
 ---
 
 J2EE Developer
