@@ -20,6 +20,8 @@ comments: true
 
 1. [J2EE Developer]({{ site.baseurl }}{% link docs/open/J2EE-Developer.md %})
 2. [Java Developer]({{ site.baseurl }}{% link docs/open/Java-Developer.md %})
+3. [Software Java]({{ site.baseurl }}{% link docs/open/Software-Java.md %})
+4. [Junior Developer]({{ site.baseurl }}{% link docs/open/Junior-Developer.md %})
 
 ## Closed positions
 
