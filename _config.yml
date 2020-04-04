@@ -37,8 +37,8 @@ aux_links:
     "Sravz Home":
       - "//sravz.com"
 
-#disqus:
-#  shortname: sravz
+disqus:
+  shortname: sravz
 
 environment: production
 
