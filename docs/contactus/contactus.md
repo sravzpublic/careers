@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact us
-nav_order: 1
+nav_order: 3
 has_children: true
 permalink: /docs/contactus
 comments: false
